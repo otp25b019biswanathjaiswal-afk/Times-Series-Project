@@ -1,6 +1,6 @@
 import plotly.graph_objects as go
 import dateutil
-import pandas_ta as pta
+import ta
 import datetime
 
 import plotly.graph_objects as go
